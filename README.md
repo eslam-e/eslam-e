@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="300" src="https://cliply.co/wp-content/uploads/2019/05/371905140_MEET_ROBOT_400px.gif" >
 
-- 🔭 I’m currently working on **Machine Learning 🧠, Solidworks designing 2D/3D**
+- 🛠️ I’m currently working on **Machine Learning 🧠, Solidworks designing 2D/3D**
 
 - 👯 I’m looking to collaborate on **other researchers in the field of soft robotics**
 
